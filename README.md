@@ -1,6 +1,8 @@
 # GlobalInput - Unity3D tool
 This is a script that will hook into windows event system and add a callback function to send keyboad events to unity even when unity doesnt have focus.
 
+### Note: This system works on windows only
+
 Place the script anywhere in your assets folder and it will take care of the rest.
 
 ### Functions available:
